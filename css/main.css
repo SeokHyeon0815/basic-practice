@@ -248,13 +248,13 @@ nav {
 }
 
 #quick-icon1 {
-  background-image: url("/Image/icon-1.jpg");
+  background-image: url("../images/icon-1.jpg");
 }
 #quick-icon2 {
-  background-image: url("/Image/icon-2.jpg");
+  background-image: url("../images/icon-2.jpg");
 }
 #quick-icon3 {
-  background-image: url("/Image/icon-3.jpg");
+  background-image: url("../images/icon-3.jpg");
 }
 
 #links ul li a p {
